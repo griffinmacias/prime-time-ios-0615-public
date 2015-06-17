@@ -1,8 +1,8 @@
 PODS:
   - Expecta (0.2.4)
-  - KIF (3.0.8):
-    - KIF/XCTest (= 3.0.8)
-  - KIF/XCTest (3.0.8)
+  - KIF (3.2.3):
+    - KIF/XCTest (= 3.2.3)
+  - KIF/XCTest (3.2.3)
   - OCHamcrest (4.1.1)
   - OCMock (2.2.4)
   - OCMockito (1.4.0):
@@ -15,8 +15,7 @@ PODS:
 
 DEPENDENCIES:
   - Expecta (~> 0.2.4)
-  - KIF (~> 3.0)
-  - KIF (~> 3.0.4)
+  - KIF
   - OCMock (~> 2.2.4)
   - OCMockito
   - OHHTTPStubs (~> 3.1.2)
@@ -35,7 +34,7 @@ CHECKOUT OPTIONS:
 
 SPEC CHECKSUMS:
   Expecta: cfaf1d3e2e194ca704a25e997093d30a1ce70b61
-  KIF: 3c2cb8e66fb216f9c3abcd714699411f0256f767
+  KIF: a94bffe9c97e449e44f8fa481c53243d21309e1e
   OCHamcrest: 6f03ffa81d12feab872638490a44ab0a6d3aca10
   OCMock: a6a7dc0e3997fb9f35d99f72528698ebf60d64f2
   OCMockito: 4981140c9a9ec06c31af40f636e3c0f25f27e6b2
